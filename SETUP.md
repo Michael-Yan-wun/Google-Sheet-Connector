@@ -44,7 +44,7 @@
 2.  填入以下資訊：
 
 ```ini
-EMAIL_USER=yanwun1214@gmail.com
+EMAIL_USER=your_email@gmail.com
 EMAIL_PASS=您的16字元應用程式密碼
 SPREADSHEET_ID=your_spreadsheet_id_here
 GOOGLE_APPLICATION_CREDENTIALS=./credentials.json
