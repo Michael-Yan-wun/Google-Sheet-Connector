@@ -26,7 +26,7 @@
 2.  點擊右上角的 **共用 (Share)**。
 3.  複製 `credentials.json` 檔案中的 **client_email** (看起來像 `sheets-connector@project-id.iam.gserviceaccount.com`)。
 4.  將其貼上到共用對話框中，並給予 **編輯者 (Editor)** 權限。
-5.  點擊 **完成 ** 。
+5.  點擊 **完成** 。
 
 ## 3. Gmail 應用程式密碼設定
 
